@@ -1,0 +1,8 @@
+C:\Users\solan\source\repos\learning\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\solan\source\repos\learning\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\solan\source\repos\learning\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\solan\source\repos\learning\Test\bin\Debug\Test.exe.config
+C:\Users\solan\source\repos\learning\Test\bin\Debug\Test.exe
+C:\Users\solan\source\repos\learning\Test\bin\Debug\Test.pdb
+C:\Users\solan\source\repos\learning\Test\obj\Debug\Test.exe
+C:\Users\solan\source\repos\learning\Test\obj\Debug\Test.pdb
